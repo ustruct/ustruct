@@ -4,6 +4,7 @@
 [![Discord](https://api.appz.lol/v1/users/320142197725069312.svg)](https://discord.com/users/320142197725069312)
 
 ### Friends
+[![](https://api.appz.lol/v1/users/683507216241918043.svg)](https://discord.com/users/683507216241918043)
 [![](https://api.appz.lol/v1/users/1181632439840428092.svg)](https://discord.com/users/1181632439840428092)
 [![](https://api.appz.lol/v1/users/1205232512574431325.svg)](https://discord.com/users/1205232512574431325)
 [![](https://api.appz.lol/v1/users/1209612988961652776.svg)](https://discord.com/users/1209612988961652776)
